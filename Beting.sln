@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beting", "Beting\Beting.csproj", "{CCBB1A38-5B22-493E-BE24-E9909AB5C27B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity.DAL", "Entity.DAL\Entity.DAL.csproj", "{509F478C-94DA-42C4-B0E3-435C308B036C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCBB1A38-5B22-493E-BE24-E9909AB5C27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBB1A38-5B22-493E-BE24-E9909AB5C27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBB1A38-5B22-493E-BE24-E9909AB5C27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBB1A38-5B22-493E-BE24-E9909AB5C27B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{509F478C-94DA-42C4-B0E3-435C308B036C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509F478C-94DA-42C4-B0E3-435C308B036C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509F478C-94DA-42C4-B0E3-435C308B036C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{509F478C-94DA-42C4-B0E3-435C308B036C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55991237-BFBA-450B-AA02-AAB9A39A0EDD}
+	EndGlobalSection
+EndGlobal
